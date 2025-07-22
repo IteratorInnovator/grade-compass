@@ -19,3 +19,5 @@ If tailwindcss is not installed, install it using:
 ```
 npm install tailwindcss @tailwindcss/vite
 ```
+
+Remember to add a .env.local file at the project root directory. The file will store our API keys, etc.
