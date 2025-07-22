@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@layer utilities {
+  h1 {
+    @apply text-red-500 text-8xl;
+  }
+}
